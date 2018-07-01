@@ -9,5 +9,5 @@ Processing Pi to 55,554 digits on a spiral
  Adaped for Redbubble by Rupert Russell
  2 July 2018
  Code avaiable on Github at https://github.com/rupertrussell/spiralText_004
- Artwork available on Redbubble at: pi-spiral-004
+ Artwork available on Redbubble at: https://www.redbubble.com/people/rupertrussell/works/32496057-pi-spiral-55-554-digits
  */
